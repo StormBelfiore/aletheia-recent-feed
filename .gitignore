@@ -1,0 +1,27 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+ENV/
+env/
+venv/
+.build/
+dist/
