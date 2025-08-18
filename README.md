@@ -27,3 +27,11 @@ export AOS_ALLOWED_SIGNERS="$HOME/.config/aletheia/allowed_signers"
 export AOS_SIGNER_ID="aletheia"
 
 uvicorn app.main:app --reload --host 127.0.0.1 --port 8098
+
+## Screenshots
+
+**Dashboard**
+![Dashboard](docs/images/dashboard.png)
+
+**Health endpoint**
+![Health](docs/images/health.png)
