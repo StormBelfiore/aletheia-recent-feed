@@ -30,8 +30,14 @@ uvicorn app.main:app --reload --host 127.0.0.1 --port 8098
 
 ## Screenshots
 
-**Dashboard**
+## Screenshots
+
+### Dashboard
 ![Dashboard](docs/images/dashboard.png)
+
+### Health endpoint
+![Health](docs/images/health.png)
+
 
 **Health endpoint**
 ![Health](docs/images/health.png)
